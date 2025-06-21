@@ -84,7 +84,7 @@ The app will open in your default browser. You can input financial details to pr
 
 ## 🌍 Live Demo
 
-👉 **Streamlit App**: [Click to open](https://your-streamlit-url)  
+👉 **Streamlit App**: [Click to open]([https://your-streamlit-url](https://creditworthinessapp.streamlit.app))  
 👉 **Hugging Face Space**: [View on Hugging Face](https://huggingface.co/spaces/your-username/credit-score-app)
 
 
